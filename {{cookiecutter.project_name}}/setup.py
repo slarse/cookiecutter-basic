@@ -13,8 +13,7 @@ required = []
 setup(
     name='{{cookiecutter.project_name}}',
     version='0.0.1',
-    description=('{{cookiecutter.description}}'
-                 'set of tools for compressing PDF files to e-reader friendly sizes.'),
+    description=('{{cookiecutter.description}}'),
     long_description=readme,
     author='Simon Larsén',
     author_email='slarse@kth.se',
